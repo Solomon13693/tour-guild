@@ -9,9 +9,9 @@ const Calltoaction = () => {
           on a seamless and successful relocation to this vibrant African
           nation.
         </p>
-        <a href="https://paystack.com/pay/wcye6nwtfb" target="_blank">
+        {/* <a href="https://paystack.com/pay/wcye6nwtfb" target="_blank">
           <button className="btn-primary mt-4 mx-auto">Get it now</button>
-        </a>
+        </a> */}
       </div>
     </div>
   );
