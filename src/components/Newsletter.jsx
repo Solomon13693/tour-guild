@@ -18,11 +18,11 @@ const Newsletter = () => {
             African nation.
           </p>
         </div>
-        {/* <a href="#" className="justify-center mx-auto">
+        <a href="#" className="justify-center mx-auto">
           <a href="https://paystack.com/pay/wcye6nwtfb" target="_blank">
             <button className="btn-secondary mt-6">Enrol Now</button>
           </a>
-        </a> */}
+        </a>
       </div>
     </div>
   );

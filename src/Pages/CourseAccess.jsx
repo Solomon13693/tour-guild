@@ -30,7 +30,7 @@ const CourseAccess = () => {
           {/* Access Button */}
           <div className="pt-4">
             <a
-              href="https://paystack.com/pay/wcye6nwtfb"
+              href="https://drive.google.com/drive/folders/1Lu-tQ8oLiyXDO0cfOiSdHWUW56nqnHi-?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary inline-block text-center min-w-[250px]"
